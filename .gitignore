@@ -4,6 +4,9 @@ target/
 !**/src/main/**
 !**/src/test/**
 
+### eclipse ###
+day01/
+
 ### STS ###
 .apt_generated
 .classpath
